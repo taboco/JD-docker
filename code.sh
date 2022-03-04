@@ -36,19 +36,19 @@ var_name=(
 )
 
 name_js=(
-  jd_fruit
-  jd_pet
-  jd_plantBean
-  jd_dreamFactory
-  jd_jdfactory
-  jd_jdzz
-  jd_crazy_joy
-  jd_jxnc
-  jd_bookshop
-  jd_cash
-  jd_sgmh
-  jd_cfd
-  jd_health
+  okyyds_yydspure_master_jd_fruit
+  okyyds_yydspure_master_jd_pet
+  okyyds_yydspure_master_jd_plantBean
+  okyyds_yydspure_master_jd_dreamFactory
+  okyyds_yydspure_master_jd_jdfactory
+  okyyds_yydspure_master_jd_jdzz
+  okyyds_yydspure_master_jd_crazy_joy
+  okyyds_yydspure_master_jd_jxnc
+  okyyds_yydspure_master_jd_bookshop
+  okyyds_yydspure_master_jd_cash
+  okyyds_yydspure_master_jd_sgmh
+  okyyds_yydspure_master_jd_cfd
+  okyyds_yydspure_master_jd_health
 )
 
 name_config=(
